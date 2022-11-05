@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.navbar {
+    padding: 0;
+
+}
+
+nav .container-fluid {
+    padding: 0;
+    border: solid 2px black;
+}
+
+.nav-item {
+    border-top: solid 2px black;
+
+}
